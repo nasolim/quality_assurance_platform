@@ -9,7 +9,9 @@
 
 ## About Quality Assurance Platform
 
-I'm building a web app that is meant to present what surveys are available and generate submission pages
+simple proof of concept for a dynamic quality assurance platform.
+
+I should be able to easily add new surveys and questions without having to build new pages from scrape
 
 ## License
 
